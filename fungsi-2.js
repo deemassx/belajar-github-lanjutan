@@ -1,0 +1,1 @@
+console.log('ini file fungsi kedua')
